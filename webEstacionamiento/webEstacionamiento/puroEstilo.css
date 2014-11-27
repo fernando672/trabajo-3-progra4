@@ -1,0 +1,35 @@
+﻿body {
+
+}
+
+
+.textbox{
+    width: 300px;
+    height: 40px;
+}
+
+.centro{
+    border: medium inset #FF0000; 
+    width: 727px; 
+    height: 611px; 
+    font-family: 'Comic Sans MS'; 
+    font-size: xx-large; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: capitalize; 
+    color: #0000CC; 
+    text-align: center; 
+    vertical-align: middle; 
+    background-color: #FFCC66
+
+}
+
+.boton{
+    border-style: groove;
+    border-color: #6600FF;
+    width: 300px;
+    height: 40px;
+    position: static;
+    background-color: #66CCFF;
+}
